@@ -1,3 +1,3 @@
 # Hola_Mundo
-git commit 'commit primer archivo'
+git commit -m "Commit primer archivo"
 git log
