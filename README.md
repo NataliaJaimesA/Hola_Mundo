@@ -1,3 +1,3 @@
 # Hola_Mundo
-git commit 'Hola Mundo'
+git init
 git commit 'commit primer archivo'
